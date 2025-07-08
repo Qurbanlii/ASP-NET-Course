@@ -1,12 +1,13 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-primary">
     <div class="container">
-        <a class="navbar-brend" href="/">CourseApp</a>
+        <a class="navbar-brend" asp-controller="Home" asp-action="Index">CourseApp</a>
+
         <ul class="navbar-nav me-auto">
             <li class="nav-item">
-                <a href="/home" class="nav-link">Home</a>
+                <a asp-controller="Home" asp-action="Index" class="nav-link">Home</a>
             </li>
             <li class="nav-item">
-                <a href="/course/list" class="nav-link">Kurslar</a>
+                <a asp-controller="Course" asp-action="List" class="nav-link">Kurslar</a>
             </li>
         </ul>
     </div>
