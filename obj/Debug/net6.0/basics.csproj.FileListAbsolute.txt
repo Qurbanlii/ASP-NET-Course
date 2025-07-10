@@ -32,3 +32,4 @@ C:\Users\ACER\Desktop\basics\obj\Debug\net6.0\basics.pdb
 C:\Users\ACER\Desktop\basics\obj\Debug\net6.0\basics.genruntimeconfig.cache
 C:\Users\ACER\Desktop\basics\obj\Debug\net6.0\ref\basics.dll
 C:\Users\ACER\Desktop\basics\obj\Debug\net6.0\basics.sourcelink.json
+C:\Users\ACER\Desktop\basics\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
